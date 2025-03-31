@@ -405,6 +405,12 @@ Ensure proper citations if needed.
 If it’s a draft, does it need significant revisions?
 
 If using for professional work, does it meet accuracy and ethical standards?
+** Document one best practice you will follow when using AI tools at Focus Bear. **
+One best practice I will follow when using AI tools at Focus Bear is:
+
+Ensuring AI-Augmented Decisions Remain Human-Centered
+I will use AI tools to enhance productivity and decision-making while always maintaining human oversight. This means validating AI-generated outputs for accuracy, ethical considerations, and alignment with company values before acting on them.
+
 
 
 
