@@ -292,14 +292,15 @@ Data privacy issues often arise due to **avoidable mistakes** in handling sensit
 🛠️ Task
 
 Identify at least one habit or practice you can adopt to improve data security in your role.
-One key habit to improve data security in your role is enabling Multi-Factor Authentication (MFA) on all accounts that handle sensitive data.
+A key habit to improve data security in your role is **regularly updating and reviewing access permissions** for sensitive data and systems.  
 
-✅ Why? MFA adds an extra layer of security, making it much harder for hackers to gain access, even if they steal your password.
+✅ **Why?** Limiting access ensures that only authorized individuals can view or modify critical information, reducing the risk of data breaches.  
 
-✅ How to implement it?
+✅ **How to implement it?**  
+- **Periodically review user access** to ensure only necessary personnel have access.  
+- **Remove or modify permissions** for former employees or role changes.  
+- **Follow the Principle of Least Privilege (PoLP)**—only grant access to those who absolutely need it.  
 
-Turn on MFA for email, cloud storage, and work accounts.
-
-Use an authenticator app (e.g., Google Authenticator, Microsoft Authenticator) instead of SMS for better security.
+Would you like more security practices tailored to your specific work environment? 🚀
 
 Document at least one key learning or security measure you will implement.
