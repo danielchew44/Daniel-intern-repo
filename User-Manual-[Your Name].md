@@ -19,9 +19,29 @@ Things that distract me include excessive notifications, last-minute changes, an
 The best way to support my productivity is to provide clear expectations and structured feedback.
 Feedback & Growth
 I like feedback to be constructive, direct, and specific, with examples when necessary. I appreciate both public and private feedback, as long as feedback is constructive, reasonable, and beneficial for both the individual and the company, I am open to receiving and implementing it.
-When I make a mistake, the best way to let me know is to address it directly, explain the issue clearly, and suggest how I can improve. A solution-oriented approach works best for me.
-I appreciate it when teammates are open to collaboration, share knowledge, and provide constructive feedback in a positive and professional manner.
+When I make a mistake, the best way to let me know is to address it directly, explain the issue clearly, and suggest how I can improve. A solution-oriented approach works best for me. I appreciate it when teammates are open to collaboration, share knowledge, and provide constructive feedback in a positive and professional manner.
 Fun Facts & Quirks
 One thing people often misunderstand about me is that I may seem talkative at times, but when I’m focused, I prefer to work quietly.
 A fun fact about me is that I consistently practice meditation to reduce stress and avoid emotional influence when trading equities.
 My work superpower is always being willing to lend a helping hand to my teammates, and I always highly value feedback and recommendations from others, as I have learned a lot from my previous mentors and supervisors.
+What is a “User Manual for Me”, and why do teams use them?
+
+What categories are helpful to include? (e.g., communication style, work habits, feedback preferences)
+
+How can writing a personal user manual improve teamwork and reduce misunderstandings?
+📝 Reflection
+
+What do you need from teammates to do your best work? (e.g., direct communication, flexibility, detailed instructions, minimal interruptions)
+
+How do you prefer to communicate? (e.g., async messages, video calls, quick check-ins, long discussions)
+
+What helps you stay focused and productive? (e.g., quiet workspace, deep work sessions, structured to-do lists, music)
+
+How do you like to give and receive feedback? (e.g., clear & direct, with positive reinforcement, written vs. verbal feedback)
+
+What are some quirks or things to know about your work style? (e.g., need time to process ideas, like to brainstorm out loud, prefer written instructions)
+🛠️ Task
+
+Write your User Manual for Me using the structure below.
+
+Share it with your manager or teammates so they can better understand how to work with you.
