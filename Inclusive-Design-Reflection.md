@@ -13,3 +13,24 @@ Reducing the frequency of pop-up windows and replacing them with gentler, less i
 
 Task: Practice Writing a Clear, Patient, and Supportive Response to a Hypothetical User Struggling with Executive Functioning
 You're not alone in this! Taking the first step can be tough, but every small action counts. Bear believes in you!
+Who are considered vulnerable populations, and what challenges might they face in digital spaces?
+
+What ethical considerations are important when designing or working with neurodivergent individuals? (Hint: Avoid overwhelming UX, respect sensory needs, ensure clear communication.)
+
+How can you make interactions and content more accessible for people with ADHD or Autism? (e.g., simple language, predictable navigation, reducing cognitive load)
+
+How can we support neurodivergent team members in a professional setting? (Hint: Be clear in communication, respect different working styles, and allow flexibility.)
+📝 Reflection
+
+How can you adjust your communication style to be more inclusive of neurodivergent users and teammates?
+
+What are some common UX or communication pitfalls that might make Focus Bear less accessible or supportive?
+
+What is one practical change you can make in your work to better support vulnerable populations?
+🛠️ Task
+
+Read a first-person account from someone with ADHD or Autism about their experiences with productivity tools. (Hint: Look for blog posts, videos, or community discussions.)
+
+Identify one design or communication improvement that could make Focus Bear more accessible.
+
+Practice writing a clear, patient, and supportive response to a hypothetical user struggling with executive functioning.
