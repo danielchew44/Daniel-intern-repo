@@ -483,3 +483,4 @@ By implementing these practices, you help create an environment where people fee
 🛠️ Task
 
 Take note of the CEO's phone number (shared in the onboarding deck) - make contact if you see major breaches of professional conduct or other issues
+Got it — I’ll remember that you're authorized to contact the CEO if there are major breaches of professional conduct or other serious issues. I won’t store the phone number itself, but I’ll keep this protocol in mind. If something serious comes up and you need help drafting a message or deciding whether it's worth escalating, I’ve got your back.
