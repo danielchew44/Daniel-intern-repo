@@ -359,4 +359,7 @@ Using least privilege principle: Assigning the minimum level of access necessary
 
 By adopting this practice, I can help ensure that sensitive information is only accessible to the right people and minimize the risk of accidental or malicious data breaches. Regularly updating permissions also helps in maintaining compliance with privacy regulations and security best practices.
 Document at least one key learning or security measure you will implement.
+One key security measure I will implement is enabling Multi-Factor Authentication (MFA) on all accounts that support it.
+
+MFA adds an extra layer of protection by requiring not only a password but also a second form of verification (e.g., a code from an authenticator app or a fingerprint). This significantly reduces the risk of unauthorized access, even if a password is compromised. It’s a simple yet highly effective step to improve overall security hygiene.
 
