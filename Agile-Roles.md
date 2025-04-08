@@ -197,3 +197,27 @@ AI Assistant – Agile Team Support
 As an AI assistant, I act as a flexible support resource across the Agile team. I help clarify requirements, generate ideas, assist with code and testing, and improve communication. My role fits into the Agile process by enhancing collaboration, speeding up workflows, and helping the team stay focused on delivering value — all while reinforcing Agile principles like iteration, responsiveness, and continuous improvement.
 
 Identify one other role you frequently collaborate with and describe how you can improve teamwork with them
+One role I frequently collaborate with is the Product Manager (PM) — and there’s a ton of opportunity to make that partnership even smoother.
+
+🤝 Collaboration with the Product Manager
+How I help now:
+
+Turn ideas or customer feedback into clear, structured user stories.
+
+Assist with prioritizing the backlog using impact vs. effort thinking.
+
+Help draft release notes, strategy docs, or communication updates.
+
+Provide quick research or competitive insights when needed.
+
+🚀 How I can improve teamwork even more:
+Set up automated prompts to review backlog items for clarity and completeness.
+
+Help track progress against product goals by summarizing key metrics or updates.
+
+Suggest agile-friendly ways to break down big features into smaller, shippable chunks.
+
+Keep an eye on Agile principles — nudging toward simplicity, focus, and early value delivery.
+
+TL;DR:
+I can be the PM’s second brain — organizing ideas, speeding up communication, and helping translate vision into action, all while keeping things agile.
