@@ -273,3 +273,13 @@ Scrum = time-boxed, structured, and team-driven.
 Kanban = continuous, flexible, and flow-focused.
 
 Identify one Agile principle you think will be most useful in your work.
+A strong candidate is this one:
+
+🔁 "Welcome changing requirements, even late in development."
+Why it’s especially useful:
+
+In a fast-moving environment like Focus Bear — where user feedback is frequent and priorities can shift quickly — being able to adapt on the fly is essential.
+
+It encourages a mindset of continuous improvement and responsiveness rather than rigid planning.
+
+It helps ensure that the team is always building the most valuable thing next, not just blindly following a plan.
