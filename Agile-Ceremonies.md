@@ -347,3 +347,23 @@ Do improvements link back to sprint goals or team KPIs?
 If you're in a leadership or facilitation role, track action item completion across retros. This builds trust and shows the team their feedback matters.
 
 Document one change you can make to improve your team collaboration.
+Absolutely — here’s a solid example of a change you could document to improve team collaboration:
+
+🔄 Change to Improve Team Collaboration:
+Start using async Loom or video updates for complex tasks instead of long Slack threads or walls of text.
+
+🧠 Why This Helps:
+Makes it easier to explain context-heavy updates, designs, or blockers.
+
+Saves time and reduces misunderstandings.
+
+Great for teammates in different time zones who can’t hop on a quick call.
+
+Encourages more thoughtful, clear communication.
+
+✅ Action Plan:
+Use Loom or similar tools to record short updates (1–3 mins max).
+
+Share the link in your team’s Slack or tracking tool with a quick summary.
+
+Encourage others to do the same, especially for code walkthroughs, UX demos, or product feedback.
