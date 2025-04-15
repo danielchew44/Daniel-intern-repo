@@ -307,4 +307,24 @@ Optionally, leave a comment like: “Completed and merged in PR #123.”
 Moving tasks accurately keeps the board up to date, makes it easy for the team to see what’s happening, and helps spot bottlenecks or blockers quickly.
 
 Identify one way you can improve task tracking in your role.
+Nice! Here’s a solid way to approach this:
 
+✅ One Way to Improve Task Tracking:
+Consistently update task status and add brief context in comments.
+
+🔍 Why it helps:
+Keeps the whole team aligned — especially in async or remote setups.
+
+Prevents “mystery tasks” that sit in limbo or look done when they’re not.
+
+Makes stand-ups smoother because everyone can just glance at the board.
+
+Leaves breadcrumbs if someone else needs to jump in or pick up the work later.
+
+🔧 How to do it:
+When you move a task to "In Progress," leave a quick note like:
+“Started backend integration, blocked on API access.”
+
+If it's in "Review" or "Done," add links to pull requests or test results.
+
+Use tags, assignees, and due dates meaningfully — not just as decoration.
