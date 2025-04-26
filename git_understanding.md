@@ -732,3 +732,101 @@ Onboarding slows down	New developers spend more time deciphering code history
 Team efficiency decreases	More rework and frustration
 
 Commit and push your changes to GitHub.
+
+Research what a Pull Request (PR) is and why it’s used.
+
+Create a new branch in your Git desktop client.
+
+Make a small change and push the branch to GitHub.
+
+Open a Pull Request on GitHub:
+Add a meaningful PR title and description.
+Link to a related issue (if applicable).
+
+Review an existing PR in a public open-source repo (e.g., React PRs):
+Read through comments and discussions.
+Observe how changes are requested and approved.
+
+Write reflections in git_understanding.md:
+Why are PRs important in a team workflow?
+Because A Pull Request (PR) is a way to propose changes you've made in a separate branch of a codebase to be merged into another branch, typically the main one (like main or develop). It’s most commonly used in collaborative development workflows on platforms like GitHub, GitLab, and Bitbucket.
+
+Here's a quick breakdown of what happens in a PR:
+
+Create a branch: You make changes in a dedicated branch.
+
+Push the branch: You push it to a remote repository.
+
+Open a PR: You open a pull request asking to merge your changes into the main branch.
+
+Review: Teammates review the code, suggest or request changes.
+
+Merge: Once approved, the code gets merged into the target branch.
+
+What makes a well-structured PR?
+A well-structured Pull Request (PR) makes it easy for reviewers to understand, test, and approve your changes. Here’s what makes a PR strong and reviewer-friendly:
+
+✅ 1. Clear Title
+Be specific and concise.
+
+Example: Fix bug in login redirect for expired sessions
+
+✅ 2. Descriptive Summary
+Include the what, why, and optionally how:
+
+What: What does this PR change?
+
+Why: Why was this change needed?
+
+How: How was the change implemented (only if not obvious)?
+
+Example:
+
+shell
+Copy code
+### What
+Adds client-side validation to the signup form.
+
+### Why
+Users were submitting incomplete forms, causing server errors.
+
+### How
+Introduced a `validateForm()` function that checks required fields before submission.
+✅ 3. Screenshots or GIFs (for UI changes)
+Helps reviewers visualize changes.
+
+Bonus: add before/after comparisons.
+
+✅ 4. Linked Issues
+Reference related issues using Closes #123 or Fixes #456 to automatically close them when merged.
+
+✅ 5. Small, Focused Changes
+Keep your PR focused on a single task/feature.
+
+Avoid combining unrelated changes in one PR.
+
+✅ 6. Test Coverage
+List any new or updated tests.
+
+Mention how you manually tested the change, if relevant.
+
+✅ 7. Checklist (optional but helpful)
+A standard checklist shows readiness:
+
+css
+Copy code
+- [x] Tested on multiple screen sizes
+- [x] Added/updated unit tests
+- [x] Linted and formatted
+- [x] No console errors
+✅ 8. Tag Reviewers
+Add relevant team members who should review the code.
+
+Assign labels (e.g., bug, enhancement, needs review) for clarity.
+
+What did you learn from reviewing an open-source PR?
+Making a Branch.
+
+Request feedback on your PR from a peer or mentor.
+
+Merge the PR (if approved) and delete the branch.
